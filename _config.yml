@@ -12,12 +12,12 @@ color:
   # links: '#54a996'
 
 # Footer settings
-footer: Nautilia Computing
+footer: SAS NAUTILIA COMPUTING
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: linkedin
-    url: https://www.linkedin.com/company/nautilia/about/
+    url: https://www.linkedin.com/company/nautilia-computing/about/
   - title: github
     url: https://github.com/nautilia-co
 
