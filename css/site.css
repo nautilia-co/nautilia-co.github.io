@@ -1,0 +1,50 @@
+body {
+    font-family: "Anonymous Pro", "Courier New", Courier, monospace;
+}
+
+.center {
+    margin: auto;
+    position: absolute;
+    top: 0; left: 0; bottom: 0; right: 0;
+    text-align:center;
+    width:80%;
+    height:600px;
+}
+
+#box {
+    margin: 10px auto;
+    width: 90%;
+}
+
+#sidebar {
+    float: left;
+    margin: 0;
+    width: 25%;
+}
+
+ul {
+    list-style-type: none;
+    line-height: 2.0;
+}
+
+#main {
+    float: left;
+    margin: 0;
+    width: 75%;
+}
+
+.icon {
+    font-size:3em;
+    color:black;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.icon:hover {
+    transform:scale(1.15);
+    -moz-transform:scale(1.15);
+    -webkit-transform:scale(1.15);
+    -ms-transform:scale(1.15);
+    -o-transform:scale(1.15);
+}
